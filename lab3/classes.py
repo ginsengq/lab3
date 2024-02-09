@@ -80,7 +80,7 @@ point = Point(x,y)
 point.show()
 point.move()
 print(x,y)
-res=point.dist()
+res = point.dist()
 print(res)
 
 
